@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KogAtlas/ElectronApp/issues"
   },
-  "homepage": "https://github.com/KogAtlas/ElectronApp#readme"
+  "homepage": "https://github.com/KogAtlas/ElectronApp#readme",
+  "dependencies": {
+    "eslint": "^4.14.0"
+  }
 }
