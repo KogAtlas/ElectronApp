@@ -1,0 +1,19 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "Test Electron application.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KogAtlas/ElectronApp.git"
+  },
+  "author": "KogAtlas",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/KogAtlas/ElectronApp/issues"
+  },
+  "homepage": "https://github.com/KogAtlas/ElectronApp#readme"
+}
